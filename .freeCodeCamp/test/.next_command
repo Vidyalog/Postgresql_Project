@@ -140,3 +140,13 @@ git remote add origin https://github.com/Vidyalog/Postgresql_Project.git
 git remote set-url origin https://github.com/Vidyalog/Postgresql_Project.git
 git push -u origin master
 git add .
+git commit -m "test"
+git push
+git push origin master
+git push --set-upstream origin main
+git push --set-upstream origin main
+git push --set-upstream origin main
+git pull
+git push --set-upstream origin main
+git pull origin main --rebase
+git add .
