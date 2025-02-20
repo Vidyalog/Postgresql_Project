@@ -150,3 +150,26 @@ git pull
 git push --set-upstream origin main
 git pull origin main --rebase
 git add .
+git push --set-upstream origin main
+git push origin main
+ls --color=auto
+git pull
+git pull main main
+git pull dev dev
+git init
+cat /workspace/project/.git/
+git remote -v
+git status
+ls --color=auto
+git add
+ls --color=auto
+git add universe1.sql universe.sql
+git status
+git add universe.sql
+git status
+git commit test
+git commit -m test
+git commit -a "test"
+git push origin main
+git pull --rebase origin main
+git add .
